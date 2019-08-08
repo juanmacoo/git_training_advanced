@@ -5,10 +5,11 @@
       Isn't Endava just an amazing place to learn new stuff?<br>
       but honestly Git is the best of ALL!
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>SCM</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://www.youtube.com/watch?v=P3ZR_s3NFvM" target="_blank" rel="noopener">git bisect</a></li>
+      <li><a href="https://www.youtube.com/watch?v=_VhF-ojp-fk" target="_blank" rel="noopener">git reflog</a></li>
+      <li><a href="https://www.youtube.com/watch?v=6nolZKpiG_w" target="_blank" rel="noopener">git rebase -i</a></li>
     </ul>
 </template>
 
