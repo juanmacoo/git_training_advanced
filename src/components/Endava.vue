@@ -2,7 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Isn't Endava just an amazing place to learn new stuff?
+      Isn't Endava just an amazing place to learn new stuff?<br>
+      but honestly Git is the best of ALL!
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
