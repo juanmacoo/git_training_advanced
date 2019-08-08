@@ -11,7 +11,7 @@ import Endava from './components/Endava.vue'
 export default {
   name: 'app',
   components: {
-    Endav
+    Endava
   }
 }
 </script>
