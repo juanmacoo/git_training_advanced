@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="This is an Endava Test Vue.js App"/>
+    <Endava msg="This is an Endava Test Vue.js App"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Endava from './components/Endava.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Endava
   }
 }
 </script>
